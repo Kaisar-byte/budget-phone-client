@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    background-color: #fff;
+}
+
+.toggle-button {
+    background-color: red;
+    padding: 2px 30px;
+    border-radius: 10px;
+}
+
+.seller {
+    background-color: green;
+}
+
+.buyer {
+    background-color: black;
+}
